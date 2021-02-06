@@ -27,6 +27,7 @@ end
 
 def remove_element_from_start_of_array(array)
   remove_element_from_start_of_array = ["gold", "wow"]
+  remove_element_from_start_of_array.shift
   
 end
 
