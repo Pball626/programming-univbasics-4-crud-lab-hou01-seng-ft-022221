@@ -51,6 +51,6 @@ end
 
 def update_element_from_index(array, index_number, element)
   update_element_from_index = ["wow", "red", "blue", "green"]
-  update_element_from_index["orange" = 3]
+  update_element_from_index[3] = "yellow"
 
 end
