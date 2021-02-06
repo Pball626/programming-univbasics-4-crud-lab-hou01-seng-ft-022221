@@ -1,13 +1,16 @@
 def create_an_empty_array
+  []
   
 end
 
 def create_an_array
+  ["cat", "dog", "lion", "seal"]
   
 end
 
-def add_element_to_end_of_array(array, element)
-  
+def add_element_to_end_of_array(["fish"] "bear") 
+  ["fish"]
+  add_element_to_end_of_array.push ("bear")
 end
 
 def add_element_to_start_of_array(array, element)
