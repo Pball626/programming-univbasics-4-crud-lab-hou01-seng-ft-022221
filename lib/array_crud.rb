@@ -8,9 +8,8 @@ def create_an_array
   
 end
 
-def add_element_to_end_of_array(["fish"] "bear") 
-  ["fish"]
-  add_element_to_end_of_array.push ("bear")
+def add_element_to_end_of_array(array, element)
+  array.push (element)
 end
 
 def add_element_to_start_of_array(array, element)
