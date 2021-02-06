@@ -33,7 +33,7 @@ end
 
 def retrieve_element_from_index(array, index_number)
   retrieve_element_from_index = ["blue", "red", "am"]
-  puts [2]
+  retrieve_element_from_index[2]
   
 end
 
