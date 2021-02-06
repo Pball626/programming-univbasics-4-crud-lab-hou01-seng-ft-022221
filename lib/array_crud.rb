@@ -32,6 +32,8 @@ def remove_element_from_start_of_array(array)
 end
 
 def retrieve_element_from_index(array, index_number)
+  retrieve_element_from_index = ["blue", "red", "green"]
+  puts [2]
   
 end
 
