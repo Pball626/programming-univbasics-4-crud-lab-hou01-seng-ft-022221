@@ -21,7 +21,7 @@ end
 
 def remove_element_from_end_of_array(array)
   remove_element_from_end_of_array = ["gold", "silver"]
-  remove_element_from_end_of_array.pop ()
+  remove_element_from_end_of_array.pop (silver)
   
 end
 
